@@ -8,7 +8,7 @@ public class MyIp {
                 new MyIp().getLocalIp()
         );
     }
-
+ // 이거 아닌데 ㅋㅋ
 
     public String getLocalIp() {
         try {
